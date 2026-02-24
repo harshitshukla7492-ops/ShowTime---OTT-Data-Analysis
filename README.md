@@ -1,5 +1,4 @@
-# ShowTime - OTT Data Analysis
-
+# Austo - DataAnalytics
 ## 📋 Project Overview
 
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** and statistical analysis on automobile purchase data to uncover patterns, relationships, and insights about customer demographics, financial profiles, and vehicle preferences. The analysis leverages customer information including age, salary, education, marital status, and automobile preferences to answer critical business questions about purchasing behavior.
